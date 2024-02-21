@@ -1,0 +1,5 @@
+{
+  "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
+  "C_Cpp.default.browse.path": ["Arduino.h"],
+  "C_Cpp.default.compilerPath": ""
+}
